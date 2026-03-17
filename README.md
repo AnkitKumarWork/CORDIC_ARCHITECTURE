@@ -8,5 +8,4 @@
 ![image](https://github.com/user-attachments/assets/05523f06-4f8f-468d-a9ba-922fc9800b3d)
 
 
-[Presentation_CORDIC.pptx](https://github.com/user-attachments/files/26065659/Presentation_CORDIC.pptx)
-
+[Presentation_CORDIC.pdf](https://github.com/user-attachments/files/26065820/Presentation_CORDIC.pdf)
